@@ -109,7 +109,7 @@ live2d:
 ## Docs: http://hexo.io/docs/deployment.html
 deploy: 
   type: git
-  repo: git@120.77.12.244:/home/git/hexo.git
+  repo: 
   branch: master
 
 
@@ -175,9 +175,9 @@ minify:
       - '**/*.min.js'
 
 algolia: 
-  appId: OJ804JTBX2
-  apiKey: 2f1b4a701fc575a9135afef0ee71ed83
-  adminApiKey: d5732f9a5e875d2b57f1da0b003f7887
+  appId: 
+  apiKey: 
+  adminApiKey: 
   chunkSize: 5000
   indexName: "huatianbiao-blog"
   fields: 
