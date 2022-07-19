@@ -7,7 +7,6 @@ tags:
  - git
  - 分布式
  - 软件技术
-sticky: true
 ---
 
 # Git是什么

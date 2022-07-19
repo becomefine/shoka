@@ -4,7 +4,7 @@
 
 # Site
 title: 学习笔记
-subtitle: 追夢書架
+subtitle: 
 description: 富强、民主、文明、和谐
 keywords:  # edit for Theme.shoka
 author: Hua tianbiao
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://huatianbiao.top/
+url: https://huatianbiao.top/
 root: /
 permalink: :title/ # edit for Theme.shoka
 permalink_defaults: 
@@ -52,6 +52,7 @@ prismjs:
 # Category & Tag
 default_category: uncategorized
 category_map: # edit for Theme.shoka
+  Vue: Vue-js
   计算机科学: computer-science
   软件技术: software-technology
   Java: java
@@ -63,6 +64,15 @@ category_map: # edit for Theme.shoka
   嵌入式开发: embedded
   机器学习: machine-learning
   计算机视觉: computer-vision
+  Python基础教程: python-learning
+  Python: python
+  web开发: web
+  数据结构与算法: arithmethms
+  网络技术: network
+  操作系统: os
+  Linux: linux
+  离散制造&大数据: paper
+  二进制杂谈: note
 tag_map: 
 
 # Date / Time format
@@ -82,6 +92,7 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 theme: shoka # edit for Theme.shoka
 ##看板娘配置
+
 live2d:
 	enable: true
 	scriptFrom: local
